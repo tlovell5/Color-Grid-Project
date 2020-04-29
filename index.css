@@ -1,0 +1,202 @@
+@media only screen and (min-width: 768px){
+
+.topLine{
+    width: 768px;
+    padding: 30px;
+    margin: 0px;
+    background-color: #F5C6D6 ;
+    border: solid 5px white;
+    background-clip: padding-box;
+
+}
+
+.pinkOne{
+        width: 768px;
+        padding: 30px;
+        margin: 0px;
+        background-color:#EE2E84 ;
+        border: solid 5px white;
+        background-clip: padding-box;
+
+    }
+
+.pinkTwo{
+        width: 768px;
+        padding: 30px;
+        margin: 0px;
+        background-color:#EE2E84 ;
+        border: solid 5px white;
+        background-clip: padding-box;
+
+    }
+
+.pinkThree{
+        width: 768px;
+        padding: 30px;
+        margin: 0px;
+        background-color:#EE2E84 ;
+        border: solid 5px white;
+        background-clip: padding-box;
+
+    }
+
+.pinkFour{
+        width: 768px;
+        padding: 30px;
+        margin: 0px;
+        background-color:#EE2E84 ;
+        border: solid 5px white;
+        background-clip: padding-box;
+
+    }
+
+.blueOne{
+        width: 768px;
+        padding: 30px;
+        margin: 0px;
+        background-color: #85CFD8 ;
+        border: solid 5px white;
+        background-clip: padding-box;
+
+    }
+
+.blueTwo{
+        width: 768px;
+        padding: 30px;
+        margin: 0px;
+        background-color: #85CFD8 ;
+        border: solid 5px white;
+        background-clip: padding-box;
+    }
+
+.green{
+        width: 768px;
+        padding: 30px;
+        margin: 0px;
+        background-color: #8DC63F ;
+        border: solid 5px white;
+        background-clip: padding-box;
+
+    }
+    
+.orange{
+        width: 768px;
+        padding: 30px;
+        margin: 0px;
+        background-color: #E76E34 ;
+        border: solid 5px white;
+        background-clip: padding-box;
+
+    }
+
+}
+
+
+@media only screen and (max-width: 767px){
+
+    .topLine{
+        width: 330px;
+        height: 40px;
+        margin: 0px;
+        background-color: #F5C6D6 ;
+        border: solid 5px white;
+        background-clip: padding-box;
+    
+    }
+    
+    .pink{
+        display: flex;
+    }
+
+    .pinkOne{
+            width: 75px;
+            height: 40px;
+            margin: 0px;
+            background-color:#EE2E84 ;
+            border: solid 5px white;
+            background-clip: padding-box;
+    
+        }
+    
+    .pinkTwo{
+            width: 75px;
+            height: 40px;
+            margin: 0px;
+            background-color:#EE2E84 ;
+            border: solid 5px white;
+            background-clip: padding-box;
+    
+        }
+    
+    .pinkThree{
+            width: 75px;
+            height: 40px;
+            margin: 0px;
+            background-color:#EE2E84 ;
+            border: solid 5px white;
+            background-clip: padding-box;
+    
+        }
+    
+    .pinkFour{
+            width: 75px;
+            height: 40px;
+            margin: 0px;
+            background-color:#EE2E84 ;
+            border: solid 5px white;
+            background-clip: padding-box;
+    
+        }
+
+        .blue{
+            display: flex;
+        }
+    
+    .blueOne{
+            width: 160px;
+            height: 40px;
+            margin: 0px;
+            background-color: #85CFD8 ;
+            border: solid 5px white;
+            background-clip: padding-box;
+    
+        }
+    
+    .blueTwo{
+            width: 160px;
+            height: 40px;
+            margin: 0px;
+            background-color: #85CFD8 ;
+            border: solid 5px white;
+            background-clip: padding-box;
+        }
+    
+        .lastLine{
+            display: flex;
+        }
+    
+
+    .green{
+            width: 245px;
+            height: 40px;
+            margin: 0px;
+            background-color: #8DC63F ;
+            border: solid 5px white;
+            background-clip: padding-box;
+    
+        }
+        
+    .orange{
+            width: 75px;
+            height: 40px;
+            margin: 0px;
+            background-color: #E76E34 ;
+            border: solid 5px white;
+            background-clip: padding-box;
+    
+        }   
+
+
+}   
+
+
